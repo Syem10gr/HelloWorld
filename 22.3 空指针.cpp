@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
     
-    int main(){
+int main(){
 	
 	// 空指针 用于初始化指针变量
 	// 空指针指向的内存是不可以访问的
